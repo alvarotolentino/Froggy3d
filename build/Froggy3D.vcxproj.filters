@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<Project ToolsVersion="12.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\Alvaro\Documents\Code\VTK\Froggy\src\Froggy3D.cxx">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\Alvaro\Documents\Code\VTK\Froggy\src\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{E7F9F62E-B690-4FB1-A863-86F6D1B03CF9}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="..\src\skeletonMasks.tiff">
+      <Filter>Source Files</Filter>
+    </Image>
+  </ItemGroup>
+</Project>
